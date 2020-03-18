@@ -1,5 +1,0 @@
-{
-  "chromosome": [20, 21, 22],
-  "fileType":["fastq", "bam", "vcf"],
-  "referenceGenome": ["data/"]
-}
